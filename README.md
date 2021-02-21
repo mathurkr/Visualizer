@@ -7,7 +7,7 @@ This was a project I did in 2020 to refresh myself on basic javascript and learn
 - Removing any miscellaneous comments for the final product. I left them in my repository as a learning tool and to understand specific terms.
 
 *Note* I have not been able to test this properly with file types past .mp3 files.
-![[app_screenshot.png]]
+![Visualizer Screenshot](app_screenshot.png)
 ## Resources
 Handling file drops: https://developer.mozilla.org/en-US/docs/Web/API/HTML\_Drag\_and\_Drop\_API/File\_drag\_and\_drop
 
